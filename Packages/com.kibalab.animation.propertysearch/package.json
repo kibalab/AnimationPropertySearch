@@ -1,0 +1,13 @@
+{
+  "name": "com.kibalab.animation.propertysearch",
+  "displayName": "Animation Property Searcher",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "description": "It helps you quickly find the properties you want in the animation window.",
+  "vrchatVersion": "2022.1.1",
+  "author": {
+    "name": "KIBA",
+    "email": "root@kiba.red",
+    "url": "https://vpm.kiba.red/"
+  }
+}
