@@ -4,6 +4,9 @@
   "version": "0.1.1",
   "unity": "2022.3",
   "description": "It helps you quickly find the properties you want in the animation window.",
+  "vpmDependencies" : {
+    "com.vrchat.base" : "3.x.x"
+  },
   "vrchatVersion": "2022.1.1",
   "author": {
     "name": "KIBA",
